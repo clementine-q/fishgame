@@ -117,6 +117,7 @@ class FishingGame:
         self.start_time = time.time()
 
     def update_timed_mode(self):
+        """main routine"""
         if self.start_time:
             elapsed_minutes = (time.time() - self.start_time) / 60
             if elapsed_minutes >= 1:
