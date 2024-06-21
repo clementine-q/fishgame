@@ -1,0 +1,53 @@
+[
+    {
+        "name": "Rainbow_Trout",
+        "weight_min": 1,
+        "weight_max": 5,
+        "catch_rate": 0.1
+    },
+    {
+        "name": "Salmon",
+        "weight_min": 2,
+        "weight_max": 8,
+        "catch_rate": 0.3
+    },
+    {
+        "name": "Catfish",
+        "weight_min": 1.5,
+        "weight_max": 10,
+        "catch_rate": 0.4
+    },
+{
+    "name": "Cod",
+        "weight_min": 0.5,
+        "weight_max": 10,
+        "catch_rate": 0.4
+
+},
+{
+        "name": "Trout",
+        "weight_min": 0.3,
+        "weight_max": 7,
+        "catch_rate": 0.5
+} ,
+{
+    "name": "Koi",
+        "weight_min": 0.1,
+        "weight_max": 5,
+        "catch_rate": 0.1
+}, 
+{
+    "name": "Spotted_Koi",
+        "weight_min": 0.4,
+        "weight_max": 5,
+        "catch_rate": 0.25
+},
+{
+    "name": "Plastic_Trash",
+        "weight_min": 0.1,
+        "weight_max": 5,
+        "catch_rate": 0.1
+}
+
+
+]

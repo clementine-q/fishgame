@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Lake1",
+        "fish_types": ["Trout", "Salmon", "Cod", "Plastic_Trash" ]
+    },
+    {
+        "name": "Lake2",
+        "fish_types": ["Catfish", "Trout", "Rainbow_Trout", "Plastic_Trash", "Salmon"]
+    },
+    {
+        "name": "Lake3",
+        "fish_types": ["Salmon", "Catfish", "Plastic_Trash"]
+    },
+    {
+        "name": "Lake4",
+        "fish_types": ["Spotted_Koi", "Koi", "Plastic_Trash"]
+    }
+
+
+]

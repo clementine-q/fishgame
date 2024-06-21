@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Worm",
+        "catch_rate_modifier": 1.0
+    },
+    {
+        "name": "Fly",
+        "catch_rate_modifier": 0.8
+    },
+    {
+        "name": "Bread",
+        "catch_rate_modifier": 1.2
+    }
+]
